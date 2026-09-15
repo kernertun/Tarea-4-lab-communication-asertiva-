@@ -5,7 +5,7 @@
 * **Escuela:** Ciencias y Sistemas  
 * **Curso:** Comunicación Asertiva   
 * Integrantes:
-  * Nombre Apellido - Carné  
+  * Christian Emanuel Itzep Lemus - 2025000  
   * Kerner Baltazar Tún Xón - 202505239 
 * **Fecha de Entrega:** 18/09/2026  
 
@@ -27,4 +27,4 @@ Nuestra estrategia de comunicación asertiva combina normas de trato respetuoso,
 * **Plan de fallback:** Si falla la videollamada, el equipo migra al chat; si falla la plataforma de mensajería principal, se usa un canal alterno de respaldo.
 
 
-enlace al video 
+[Link del Video ](https://youtu.be/em55r_zegpA)
