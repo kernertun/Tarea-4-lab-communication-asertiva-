@@ -5,7 +5,7 @@
 * **Escuela:** Ciencias y Sistemas  
 * **Curso:** Comunicación Asertiva   
 * Integrantes:
-  * Christian Emanuel Itzep Lemus - 2025000  
+  * Christian Emanuel Itzep Lemus - 2025000 | Grupo 3
   * Kerner Baltazar Tún Xón - 202505239 
 * **Fecha de Entrega:** 18/09/2026  
 
