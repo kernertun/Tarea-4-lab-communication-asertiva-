@@ -22,9 +22,9 @@ Nuestra estrategia de comunicación asertiva combina normas de trato respetuoso,
 
 * **Ownership de documentos:** Cada módulo o documento tiene un responsable asignado explícitamente, evitando documentación desactualizada por falta de dueño claro.
 
-* **Roles en reuniones remotas:**Rotación de moderador y timekeeper  en cada reunión para mantenerlas breves y enfocadas.
+* **Roles en reuniones remotas:** Rotación de moderador y timekeeper  en cada reunión para mantenerlas breves y enfocadas.
 
-* **Plan de fallback:**Si falla la videollamada, el equipo migra al chat; si falla la plataforma de mensajería principal, se usa un canal alterno de respaldo.
+* **Plan de fallback:** Si falla la videollamada, el equipo migra al chat; si falla la plataforma de mensajería principal, se usa un canal alterno de respaldo.
 
 
 enlace al video 
